@@ -1,1 +1,7 @@
-
+hero #bg {
+ background: -moz-linear-gradient(-45deg, rgba(224,243,250,1) 0%, rgba(168,218,175,0.42) 30%, rgba(162,216,167,0.43) 33%, rgba(215,169,199,0.67) 90%, rgba(224,161,205,0.67) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(224,243,250,1) 0%,rgba(168,218,175,0.42) 30%,rgba(162,216,167,0.43) 33%,rgba(215,169,199,0.67) 90%,rgba(224,161,205,0.67) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(224,243,250,1) 0%,rgba(168,218,175,0.42) 30%,rgba(162,216,167,0.43) 33%,rgba(215,169,199,0.67) 90%,rgba(224,161,205,0.67) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0f3fa', endColorstr='#abe0a1cd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  text-transform: uppercase;
+}
