@@ -18,7 +18,7 @@ To introduce information to family members who have mental health problems
         * Increase knowledge and communication between family / extended family
 
 ### Who will be the users?:
-        * Families (maybe with teens/ 
+        * Families (targetted to extended families, or families with teens and spanning multiple generations)  
 
 ### Why does this problem need to be address:
        * Better communication for families
